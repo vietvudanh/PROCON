@@ -1,0 +1,1 @@
+encode.exe input.txt encode.txt
