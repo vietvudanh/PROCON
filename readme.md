@@ -19,9 +19,11 @@ Components
 
 Work flows
 ----------
-Side 1:[String -> encode -> list of number -> show by dices -> take picture] ---{no commnication}--> Side 2:[graphics detect -> list of number -> decode -> result string]
+Side 1:[String -> encode -> list of number -> show by dices -> take picture] 
+---{no commnication}--> 
+Side 2:[graphics detect -> list of number -> decode -> result string]
 
 Requirement
 -----------
-OpenCV, version > 2.45
+OpenCV, version > 2.45.
 IDE: Microsoft Visual Studio to compile and using OpenCV in the project
